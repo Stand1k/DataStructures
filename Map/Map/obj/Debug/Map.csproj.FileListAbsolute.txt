@@ -5,3 +5,10 @@ D:\PC\source\repos\Data Structures\Map\Map\obj\Debug\Map.csprojAssemblyReference
 D:\PC\source\repos\Data Structures\Map\Map\obj\Debug\Map.csproj.CoreCompileInputs.cache
 D:\PC\source\repos\Data Structures\Map\Map\obj\Debug\Map.exe
 D:\PC\source\repos\Data Structures\Map\Map\obj\Debug\Map.pdb
+D:\PC\source\repos\Data Structures\DataStructures\Map\Map\obj\Debug\Map.csprojAssemblyReference.cache
+D:\PC\source\repos\Data Structures\DataStructures\Map\Map\obj\Debug\Map.csproj.CoreCompileInputs.cache
+D:\PC\source\repos\Data Structures\DataStructures\Map\Map\obj\Debug\Map.exe
+D:\PC\source\repos\Data Structures\DataStructures\Map\Map\obj\Debug\Map.pdb
+D:\PC\source\repos\Data Structures\DataStructures\Map\Map\bin\Debug\Map.exe.config
+D:\PC\source\repos\Data Structures\DataStructures\Map\Map\bin\Debug\Map.exe
+D:\PC\source\repos\Data Structures\DataStructures\Map\Map\bin\Debug\Map.pdb
