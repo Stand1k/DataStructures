@@ -1,0 +1,7 @@
+D:\PC\source\repos\Queue\Queue\bin\Debug\Queue.exe.config
+D:\PC\source\repos\Queue\Queue\bin\Debug\Queue.exe
+D:\PC\source\repos\Queue\Queue\bin\Debug\Queue.pdb
+D:\PC\source\repos\Queue\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+D:\PC\source\repos\Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+D:\PC\source\repos\Queue\Queue\obj\Debug\Queue.exe
+D:\PC\source\repos\Queue\Queue\obj\Debug\Queue.pdb

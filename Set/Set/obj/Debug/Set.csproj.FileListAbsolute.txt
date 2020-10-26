@@ -1,0 +1,7 @@
+D:\PC\source\repos\Set\Set\bin\Debug\Set.exe.config
+D:\PC\source\repos\Set\Set\bin\Debug\Set.exe
+D:\PC\source\repos\Set\Set\bin\Debug\Set.pdb
+D:\PC\source\repos\Set\Set\obj\Debug\Set.csprojAssemblyReference.cache
+D:\PC\source\repos\Set\Set\obj\Debug\Set.csproj.CoreCompileInputs.cache
+D:\PC\source\repos\Set\Set\obj\Debug\Set.exe
+D:\PC\source\repos\Set\Set\obj\Debug\Set.pdb
