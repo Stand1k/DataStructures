@@ -57,7 +57,7 @@ namespace BinarySearchTree
         {
             if(obj is Node<T> item)
             {
-                return Data.CompareTo(item );
+                return Data.CompareTo(item);
             }
             else
             {
